@@ -1,17 +1,17 @@
 # Hi, I'm Lenard 👋
 
-I'm a Mechatronics student at MCI in Innsbruck with practical experience as a Mechatronics Technician. I enjoy working on projects that merge mechanical design, electronics, and software development.
+I'm a Mechatronics student at MCI in Innsbruck with hands-on experience as a Mechatronics Technician. I love blending mechanical design, electronics, and software development in my projects.
 
 ## About Me
-- Currently studying Mechatronics, Design & Innovation at MCI in Innsbruck, with an exchange semester in Helsinki.
+- Studying Mechatronics, Design & Innovation at MCI in Innsbruck, with an exchange semester in Helsinki.
 - Former Mechatronics Technician at MAGNET-SCHULTZ GmbH & Co. KG.
-- Interested in embedded systems, IoT, and innovative product development.
+- Passionate about embedded systems, IoT, and innovative product development.
 
 ## Projects
-- **CNC Tabletop Milling Machine:** A project at the Schülerforschungszentrum Südwürttemberg (SFZ) that earned a regional innovation award at Stiftung Jugend forscht e. V.
-- **Filament Scale:** A sensor-based scale to check if a 3D printer has enough material left for a new print.
-- **Enclosure Monitoring:** A project focused on controlling the temperature in an enclosure of 3D printers.
-- **EKSPAR (Bachelor Thesis):** Person and object detection using YOLO.
+- **CNC Tabletop Milling Machine:** A project at the Schülerforschungszentrum Südwürttemberg (SFZ) that earned us 3rd place in a regional innovation competition by Stiftung Jugend forscht e. V.
+- **Filament Scale:** A sensor-based scale with a web interface to monitor if a 3D printer has sufficient material for a new print.
+- **Enclosure Monitoring:** A project focused on regulating the temperature within a 3D printer enclosure for optimal performance.
+- **EKSPAR (Bachelor Thesis):** A research project on person and object detection using YOLO.
 
 ## Skills & Tools
 - **Programming:** C, Python, C++
