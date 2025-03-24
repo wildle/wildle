@@ -18,12 +18,6 @@ I'm a Mechatronics student at MCI in Innsbruck with practical experience as a Me
 - **Software:** MATLAB & Simulink, Altium Designer, LTspice, Autodesk Inventor
 - **Version Control:** Git & GitHub
 
-## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/lenard-wild)
-- [GitHub](https://github.com/wildle)
-
-I'm always open to discussing new projects and collaboration opportunities.
-
 
 <!--
 **wildle/wildle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
