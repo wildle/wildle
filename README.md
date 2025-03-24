@@ -14,7 +14,7 @@ I'm a Mechatronics student at MCI in Innsbruck with hands-on experience as a Mec
 - **EKSPAR (Bachelor Thesis):** A research project on person and object detection using YOLO.
 
 ## Skills & Tools
-- **Programming:** C, Python, C++
+- **Programming:** Python, C and C++
 - **Software:** MATLAB & Simulink, Altium Designer, LTspice, Autodesk Inventor
 - **Version Control:** Git & GitHub
 
