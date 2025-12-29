@@ -1,9 +1,9 @@
 # Hi, I'm Lenard 👋
 
-I'm a Mechatronics student at MCI in Innsbruck with hands-on experience as a Mechatronics Technician. I love combining mechanical design, electronics, and software development in my projects.
+I'm a Mechatronics student at MCI in Innsbruck with hands-on experience as a Mechatronics Technician.
 
 ## About Me
-- Studying Mechatronics, Design & Innovation at MCI in Innsbruck, with an exchange semester in Helsinki.
+- Studying Mechatronics, Design & Smart Technologies at MCI in Innsbruck.
 - Former Mechatronics Technician at MAGNET-SCHULTZ GmbH & Co. KG.
 - Passionate about embedded systems, IoT, and innovative product development.
 
